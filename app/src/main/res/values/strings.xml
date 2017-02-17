@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="men_settings">Settings</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+
+    <string name="score">Score: </string>
+
+    //Questions
+    <string name="question_sports">Peyton Manning leads the NFL in passing.</string>
+    <string name="question_music">Elvis Presley has sold the most records of any musician or band.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The 17th President of the United States was Andrew Johnson</string>
+    <string name="question_animal">An ostrich\'s eye is bigger than its brain.</string>
+    <string name="question_science">When a gas is turned into a liquid the process is called</string>
+    <string name="question_tv">What is the first name of the Game of Thrones character with the last name Snow.</string>
+
+    //Answers
+    <string name="question_science_answer">Condensation,Evaporation,Deposition,Sublimation</string>
+    <string name="question_tv_answer">Jon</string>
+    <string name="submit_button">Submit</string>
+    <string name="warning_text">Are you sure?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="title_activity_cheat">Cheating</string>
+</resources>
